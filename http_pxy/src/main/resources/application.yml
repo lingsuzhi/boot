@@ -1,0 +1,5 @@
+spring.profiles.active: dev
+
+server:
+  #当前服务端口号
+  port: 6600
