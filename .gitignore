@@ -1,0 +1,21 @@
+/.settings
+/.project
+/*.project
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+
+### IntelliJ IDEA ###
+.idea
+*target
+*.iws
+*.iml
+*.ipr
+*.class
